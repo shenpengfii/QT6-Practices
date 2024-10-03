@@ -1,0 +1,9 @@
+E:/GithubClone/QT6-Practices/Chapter1/SubControls/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/SubControls.dir
+E:/GithubClone/QT6-Practices/Chapter1/SubControls/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+E:/GithubClone/QT6-Practices/Chapter1/SubControls/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+E:/GithubClone/QT6-Practices/Chapter1/SubControls/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+E:/GithubClone/QT6-Practices/Chapter1/SubControls/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
+E:/GithubClone/QT6-Practices/Chapter1/SubControls/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+E:/GithubClone/QT6-Practices/Chapter1/SubControls/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+E:/GithubClone/QT6-Practices/Chapter1/SubControls/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/SubControls_autogen_timestamp_deps.dir
+E:/GithubClone/QT6-Practices/Chapter1/SubControls/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/SubControls_autogen.dir
